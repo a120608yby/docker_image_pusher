@@ -1,6 +1,8 @@
 quay.io/jetstack/cert-manager-controller:v1.6.1
 quay.io/jetstack/cert-manager-webhook:v1.6.1
 quay.io/jetstack/cert-manager-cainjector:v1.6.1
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.108.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
