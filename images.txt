@@ -1,4 +1,4 @@
-otel/opentelemetry-collector-contrib:latest
+ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector:0.108.0
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
