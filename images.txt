@@ -1,8 +1,9 @@
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:latest
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-nodejs:latest
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-python:latest
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-dotnet:latest
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-apache-httpd:latest
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:1.26.0
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-nodejs:1.26.0
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-python:1.26.0
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-dotnet:1.26.0
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-apache-httpd:1.26.0
+otel/opentelemetry-collector-contrib:0.75.0
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
