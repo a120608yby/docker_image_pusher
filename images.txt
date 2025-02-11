@@ -1,4 +1,4 @@
-sonarqube:9.7-community
+sealerio/kubernetes:v1-22-15-sealerio-2
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
