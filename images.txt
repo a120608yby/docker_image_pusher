@@ -1,4 +1,4 @@
-ghcr.io/open-webui/open-webui:main
+sonarqube:community
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
